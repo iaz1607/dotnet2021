@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OnlineStore",
+    "\\OnlineStore\\OnlineStore",
+    "\\OnlineStore\\server"
   ],
+  "SelectedNode": "\\OnlineStore\\OnlineStore.sln",
   "PreviewInSolutionExplorer": false
 }

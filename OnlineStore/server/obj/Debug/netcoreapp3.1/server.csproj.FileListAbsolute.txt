@@ -1,0 +1,16 @@
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\bin\Debug\netcoreapp3.1\server.exe
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\bin\Debug\netcoreapp3.1\server.deps.json
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\bin\Debug\netcoreapp3.1\server.dll
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\bin\Debug\netcoreapp3.1\server.pdb
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\bin\Debug\netcoreapp3.1\OnlineStore.dll
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\bin\Debug\netcoreapp3.1\OnlineStore.pdb
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\obj\Debug\netcoreapp3.1\server.csproj.CopyComplete
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\obj\Debug\netcoreapp3.1\server.dll
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\obj\Debug\netcoreapp3.1\server.pdb
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStore\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
