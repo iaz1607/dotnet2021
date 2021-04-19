@@ -8,16 +8,18 @@ namespace OnlineStoreApp.BLL
         private long userId;
         private BonusDomainModel choosenBonus;
 
-        public Cart(UserDomainModel cartUser)
+        public CartDomainModel(UserDomainModel cartUser)
         {
             choosenBonus = null;
             userId = cartUser.GetUserId();
             cartItems = new List<ItemDomainModel>();
         }
+
         public void SetBonus(BonusDomainModel bonus)
         {
             this.choosenBonus = bonus;
         }
+
         public double TotalCost()
         {
             double totalCost = 0;
@@ -79,3 +81,4 @@ namespace OnlineStoreApp.BLL
             cartItems.Clear();
         }
     }
+}

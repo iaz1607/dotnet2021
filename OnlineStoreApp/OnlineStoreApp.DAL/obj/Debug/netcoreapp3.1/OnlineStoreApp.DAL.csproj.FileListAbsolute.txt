@@ -2,3 +2,12 @@ C:\Users\iaz1607\source\repos\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcor
 C:\Users\iaz1607\source\repos\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.AssemblyInfoInputs.cache
 C:\Users\iaz1607\source\repos\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.AssemblyInfo.cs
 C:\Users\iaz1607\source\repos\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\bin\Debug\netcoreapp3.1\OnlineStoreApp.DAL.deps.json
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\bin\Debug\netcoreapp3.1\OnlineStoreApp.DAL.dll
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\bin\Debug\netcoreapp3.1\OnlineStoreApp.DAL.pdb
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.csprojAssemblyReference.cache
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.AssemblyInfoInputs.cache
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.AssemblyInfo.cs
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.dll
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.pdb
