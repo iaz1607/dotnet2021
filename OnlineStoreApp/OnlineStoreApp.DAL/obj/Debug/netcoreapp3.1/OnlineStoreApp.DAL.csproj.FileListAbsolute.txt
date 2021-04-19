@@ -1,0 +1,4 @@
+C:\Users\iaz1607\source\repos\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.csprojAssemblyReference.cache
+C:\Users\iaz1607\source\repos\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.AssemblyInfoInputs.cache
+C:\Users\iaz1607\source\repos\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.AssemblyInfo.cs
+C:\Users\iaz1607\source\repos\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.csproj.CoreCompileInputs.cache
