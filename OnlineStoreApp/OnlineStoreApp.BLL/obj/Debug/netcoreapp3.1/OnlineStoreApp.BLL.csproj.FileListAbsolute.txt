@@ -1,0 +1,9 @@
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.BLL\obj\Debug\netcoreapp3.1\OnlineStoreApp.BLL.csprojAssemblyReference.cache
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.BLL\obj\Debug\netcoreapp3.1\OnlineStoreApp.BLL.AssemblyInfoInputs.cache
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.BLL\obj\Debug\netcoreapp3.1\OnlineStoreApp.BLL.AssemblyInfo.cs
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.BLL\obj\Debug\netcoreapp3.1\OnlineStoreApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.BLL\bin\Debug\netcoreapp3.1\OnlineStoreApp.BLL.deps.json
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.BLL\bin\Debug\netcoreapp3.1\OnlineStoreApp.BLL.dll
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.BLL\bin\Debug\netcoreapp3.1\OnlineStoreApp.BLL.pdb
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.BLL\obj\Debug\netcoreapp3.1\OnlineStoreApp.BLL.dll
+C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.BLL\obj\Debug\netcoreapp3.1\OnlineStoreApp.BLL.pdb
