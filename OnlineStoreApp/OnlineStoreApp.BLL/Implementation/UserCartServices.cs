@@ -1,4 +1,5 @@
-﻿using OnlineStoreApp.BLL.Contracts;
+﻿using System.Collections.Generic;
+using OnlineStoreApp.BLL.Contracts;
 using OnlineStoreApp.DAL.Contracts;
 using OnlineStoreApp.DAL.Implementation;
 using OnlineStoreApp.Domain;
@@ -25,6 +26,10 @@ namespace OnlineStoreApp.BLL.Implementation
         }
         public async void AddItem(Item item)
         {
+            if (User.userCart.cartItems == null)
+            {
+                User.userCart.cartItems = new Dictionary<int, int>();
+            }
             if (!User.userCart.cartItems.ContainsKey(item.id))
             {
                 User.userCart.cartItems[item.id] = 0;
