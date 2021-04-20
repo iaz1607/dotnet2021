@@ -11,3 +11,6 @@ C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.D
 C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.csproj.CoreCompileInputs.cache
 C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.dll
 C:\Users\iaz1607\Source\Repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.pdb
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\bin\Debug\netcoreapp3.1\OnlineStoreApp.Domain.dll
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\bin\Debug\netcoreapp3.1\OnlineStoreApp.Domain.pdb
+C:\Users\iaz1607\source\repos\iaz1607\dotnet2021\OnlineStoreApp\OnlineStoreApp.DAL\obj\Debug\netcoreapp3.1\OnlineStoreApp.DAL.csproj.CopyComplete
